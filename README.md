@@ -31,7 +31,7 @@
   </a>
   
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/C_Sharp_Logo_2023.svg" 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" 
          alt="csharp" width="40" height="40"/>
   </a>
   <a href="https://golang.org" target="_blank" rel="noreferrer">
@@ -62,10 +62,6 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" 
          alt="git" width="40" height="40"/>
   </a>
-  <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" 
-         alt="vagrant" width="40" height="40"/>
-  </a>
   
   <!-- Operating Systems -->
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
@@ -75,11 +71,11 @@
   
   <!-- Other Tools -->
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" 
          alt="photoshop" width="40" height="40"/>
   </a>
   <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" 
+    <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*musVE9e4bgjTWeoRmc-P_w.png" 
          alt="selenium" width="40" height="40"/>
   </a>
 </p>
