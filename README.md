@@ -83,6 +83,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/papusingh2sms"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="papusingh2sms" /></a><a href="https://ko-fi.com/papusingh2sms"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="papusingh2sms" /></a></p><br><br>
 
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="arqady01" data-color="#BD5FFF" data-emoji="☕"  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arqady01&show_icons=true&locale=en&layout=compact" alt="papusingh2sms" /></p>
 
 
