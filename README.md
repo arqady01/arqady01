@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm arqady01</h1>
-<h3 align="center">C++开发者，擅长系统级编程和算法优化。期待在开源社区贡献力量，共同解决复杂问题。</h3>
+<h3 align="center">I am a C++ developer at The Coca-Cola Company, specializing in system-level programming and algorithm optimization. I also research the principles of artificial intelligence and machine learning, and I look forward to contributing to the open-source community and collaborating on solving complex problems.</h3>
 
 <p align="left"> <a href="https://github.com/arqady01"><img src="https://github-profile-trophy.vercel.app/?username=arqady01" alt="arqady01" /></a> </p>
 
